@@ -1,0 +1,24 @@
+Sample text
+
+A selection of students from Riverdale High and Hogwarts took part in a quiz. 
+Below is a record of their scores.
+
+School = Riverdale High
+Grade = 1
+id, name
+0, Phoebe
+1, Rachel
+
+id, Score
+0, 3
+1, 7
+
+
+id, surname
+0, bole
+1, test
+
+
+id, address
+0, ad1
+1, ad2

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<user>
+		<name type="number">best</name>
+		<surname type="number">test</surname>
+		<address type="number">nwst</address>
+
+	</user>
+	
+</root>

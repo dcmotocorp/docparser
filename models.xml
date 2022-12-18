@@ -1,0 +1,7 @@
+<collection shelf="New Arrivals">
+<user number="int">
+   <name>string</name>
+   <surname>string</surname>
+   <address>string</address>
+</user>
+</collection>
